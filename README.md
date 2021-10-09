@@ -1,2 +1,2 @@
 # Clock
-pure javaScript (ITI)
+pure css3 (ITI)
